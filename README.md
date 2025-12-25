@@ -138,9 +138,9 @@ EVIDENCE:
 
 ![memtester output](screenshots/week_5_memtester_output.jpeg.jpeg)
 ![fio results](screenshots/week_5_fio_results.jpeg.jpeg)
-![iperf3 test 1](screenshots/week_5_iperf3.png.png)
-![iperf3 test 2](screenshots/week_5_iperf3_2.jpeg.jpeg)
-![iperf3 test 3](
+![iperf3 test 1](screenshots/week_5_iperf3_test.jpeg)
+![iperf3 test 2](screenshots/week_5_iperf3.png.png)
+![iperf3 test 3](screenshots/week_5_iperf3_2.jpeg.jpeg)
 
 
 OUTCOME:
@@ -165,9 +165,9 @@ TASKS COMPLETED:
 
 EVIDENCE:
 
-- Screenshot of top output
-- Screenshot of htop output
-- Screenshot of iostat output
+![top output](screenshots/week_6_top.jpeg.jpeg)
+![htop output](screenshots/week_6_htop.jpeg.jpeg)
+![iostat output](screenshots/week_6_iostat_output.jpeg.jpeg)
 
 OUTCOME:
 
@@ -191,12 +191,12 @@ TASKS COMPLETED:
 
 EVIDENCE:
 
-- Screenshot of Lynis security audit results and hardening index 1
-- Screenshot of Lynis security audit results and hardening index 2
-- Screenshot of Lynis security audit results and hardening index 3
-- Screenshot of Lynis security audit results and hardening index 4
-- Screenshot of Lynis security audit results and hardening index 5
-- Screenshot of nmap scan showing open and closed ports
+![Lynis security audit results and hardening index 1](screenshots/week_7_lynis_1.jpeg.jpeg)
+![Lynis security audit results and hardening index 2](screenshots/week_7_lynis_2.jpeg.jpeg)
+![Lynis security audit results and hardening index 3](screenshots/week_7_lynis_3.jpeg.jpeg)
+![Lynis security audit results and hardening index 4](screenshots/week_7_lynis_4.jpeg.jpeg)
+![Lynis security audit results and hardening index 5](screenshots/week_7_lynis_5.jpeg.jpeg)
+![nmap scan showing open and closed ports](screenshots/week_7_nmap.png.png)
 
 OUTCOME:
 
