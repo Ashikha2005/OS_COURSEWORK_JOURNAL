@@ -46,7 +46,7 @@ EVIDENCE:
 
 
 
-!\[Screenshot of VirtualBox VM settings](Screenshots/week-1%20VM%20Settings.png)
+\[!Screenshot of VirtualBox VM settings](Screenshots/week-1%20VM%20Settings.png)](Screenshots/week-1%20VM%20Settings.png)
 
 
 
@@ -90,11 +90,11 @@ EVIDENCE:
 
 
 
-!\[Screenshot of `ip addr`](Screenshots/week%20-%202%20ip%20addr.jpeg)
+\[!Screenshot of `ip addr`](Screenshots/week%20-%202%20ip%20addr.jpeg)](Screenshots/week%20-%202%20ip%20addr.jpeg)
 
-!\[Screenshot of successful ping](Screenshots/week%20-%202%20ping.jpeg)
+\[!Screenshot of successful ping](Screenshots/week%20-%202%20ping.jpeg)](Screenshots/week%20-%202%20ping.jpeg)
 
-!\[Screenshot of SSH connection](Screenshots/week%20-%202%20SSH%20connection.png)
+\[!Screenshot of SSH connection](Screenshots/week%20-%202%20SSH%20connection.png)](Screenshots/week%20-%202%20SSH%20connection.png)
 
 
 
@@ -138,13 +138,13 @@ EVIDENCE:
 
 
 
-!\[Screenshot of `systemctl status ssh`](Screenshots/week%20-%203%20systemctl%20status%20ssh.jpeg)
+\[!Screenshot of `systemctl status ssh`](Screenshots/week%20-%203%20systemctl%20status%20ssh.jpeg)](Screenshots/week%20-%203%20systemctl%20status%20ssh.jpeg)
 
-!\[Screenshot of successful SSH login](Screenshots/week%20-%203%20successful%20SSH.png)
+\[!Screenshot of successful SSH login](Screenshots/week%20-%203%20successful%20SSH.png)](Screenshots/week%20-%203%20successful%20SSH.png)
 
-!\[Screenshot of SSH key authentication 1](Screenshots/week%20-%203%20SSH%20key.png)
+\[!Screenshot of SSH key authentication 1](Screenshots/week%20-%203%20SSH%20key.png)](Screenshots/week%20-%203%20SSH%20key.png)
 
-!\[Screenshot of SSH key authentication 2](Screenshots/week%20-%203%20ssh%20copy%20id.png)
+\[!Screenshot of SSH key authentication 2](Screenshots/week%20-%203%20ssh%20copy%20id.png)](Screenshots/week%20-%203%20ssh%20copy%20id.png)
 
 
 
@@ -186,7 +186,7 @@ EVIDENCE:
 
 
 
-!\[Screenshot of `ufw status`](Screenshots/week%20-%204%20ufw%20status%20and%20ssh%20allowed.jpeg)
+\[!Screenshot of `ufw status`](Screenshots/week%20-%204%20ufw%20status%20and%20ssh%20allowed.jpeg)](Screenshots/week%20-%204%20ufw%20status%20and%20ssh%20allowed.jpeg)
 
 
 
@@ -230,15 +230,15 @@ EVIDENCE:
 
 
 
-!\[Screenshot of memtester output](Screenshots/week%20-%205%20memtester%20output.jpeg)
+\[!Screenshot of memtester output](Screenshots/week%20-%205%20memtester%20output.jpeg)](Screenshots/week%20-%205%20memtester%20output.jpeg)
 
-!\[Screenshot of fio results](Screenshots/week%20-%205%20fio%20results.jpeg)
+\[!Screenshot of fio results](Screenshots/week%20-%205%20fio%20results.jpeg)](Screenshots/week%20-%205%20fio%20results.jpeg)
 
-!\[Screenshot of iperf3 test 1](Screenshots/week%20-%205%20iperf3%20test.jpeg)
+\[!Screenshot of iperf3 test 1](Screenshots/week%20-%205%20iperf3%20test.jpeg)](Screenshots/week%20-%205%20iperf3%20test.jpeg)
 
-!\[Screenshot of iperf3 test 2](Screenshots/week%20-%205%20iperf3.png)
+\[!Screenshot of iperf3 test 2](Screenshots/week%20-%205%20iperf3.png)](Screenshots/week%20-%205%20iperf3.png)
 
-!\[Screenshot of iperf3 test 3](Screenshots/week%20-%205%20iperf3%202.jpeg)
+\[!Screenshot of iperf3 test 3](Screenshots/week%20-%205%20iperf3%202.jpeg)](Screenshots/week%20-%205%20iperf3%202.jpeg)
 
 
 
@@ -278,11 +278,11 @@ EVIDENCE:
 
 
 
-!\[Screenshot of top output](Screenshots/week%20-%206%20top.jpeg)
+\[!Screenshot of top output](Screenshots/week%20-%206%20top.jpeg)](Screenshots/week%20-%206%20top.jpeg)
 
-!\[Screenshot of htop output](Screenshots/week%20-%206%20htop.jpeg)
+\[!Screenshot of htop output](Screenshots/week%20-%206%20htop.jpeg)](Screenshots/week%20-%206%20htop.jpeg)
 
-!\[Screenshot of iostat output](Screenshots/week%20-%206%20iostat output.jpeg)
+\[!Screenshot of iostat output](Screenshots/week%20-%206%20iostat output.jpeg)](Screenshots/week%20-%206%20iostat output.jpeg)
 
 
 
@@ -324,17 +324,17 @@ EVIDENCE:
 
 
 
-!\[Screenshot of Lynis security audit results and hardening index 1](Screenshots/week%20-%207%20lynis%201.jpeg)
+\[!Screenshot of Lynis security audit results and hardening index 1](Screenshots/week%20-%207%20lynis%201.jpeg)](Screenshots/week%20-%207%20lynis%201.jpeg)
 
-!\[Screenshot of Lynis security audit results and hardening index 2](Screenshots/week%20-%207%20lynis%202.jpeg)
+\[!Screenshot of Lynis security audit results and hardening index 2](Screenshots/week%20-%207%20lynis%202.jpeg)](Screenshots/week%20-%207%20lynis%202.jpeg)
 
-!\[Screenshot of Lynis security audit results and hardening index 3](Screenshots/week%20-%207%20lynis%203.jpeg)
+\[!Screenshot of Lynis security audit results and hardening index 3](Screenshots/week%20-%207%20lynis%203.jpeg)](Screenshots/week%20-%207%20lynis%203.jpeg)
 
-!\[Screenshot of Lynis security audit results and hardening index 4](Screenshots/week%20-%207%20lynis%204.jpeg)
+\[!Screenshot of Lynis security audit results and hardening index 4](Screenshots/week%20-%207%20lynis%204.jpeg)](Screenshots/week%20-%207%20lynis%204.jpeg)
 
-!\[Screenshot of Lynis security audit results and hardening index 5](Screenshots/week%20-%207%20lynis%205.jpeg)
+\[!Screenshot of Lynis security audit results and hardening index 5](Screenshots/week%20-%207%20lynis%205.jpeg)](Screenshots/week%20-%207%20lynis%205.jpeg)
 
-!\[Screenshot of nmap scan showing open and closed ports](Screenshots/week%20-%207%20nmap.png)
+\[!Screenshot of nmap scan showing open and closed ports](Screenshots/week%20-%207%20nmap.png)](Screenshots/week%20-%207%20nmap.png)
 
 
 
