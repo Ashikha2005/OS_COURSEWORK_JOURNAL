@@ -104,5 +104,189 @@ OUTCOME:
 
 Network connectivity was successfully established.
 
+---
+
+
+
+WEEK 3: SSH AND SECURITY CONFIGURATION
+
+OBJECTIVE:
+
+
+
+To configure secure remote access to the Ubuntu Server using SSH.
+
+
+
+TASKS COMPLETED:
+
+
+
+\- Installed and enabled OpenSSH server
+
+\- Verified SSH service status
+
+\- Connected to server using SSH from host machine
+
+\- Configured key-based authentication
+
+\- Tested password-based authentication
+
+
+
+EVIDENCE:
+
+
+
+\- Screenshot of `systemctl status ssh`
+
+\- Screenshot of successful SSH login
+
+\- Screenshot of SSH key authentication
+
+
+
+OUTCOME:
+
+
+
+Secure remote access to the server was successfully configured.
+
+
+
+---
+
+
+
+WEEK 4: FIREWALL CONFIGURATION
+
+OBJECTIVE:
+
+
+
+To configure a firewall to protect the server.
+
+
+
+TASKS COMPLETED:
+
+
+
+\- Enabled UFW firewall
+
+\- Allowed SSH traffic through firewall
+
+\- Verified firewall status
+
+
+
+EVIDENCE:
+
+
+
+\- Screenshot of `ufw status`
+
+\- Screenshot showing SSH allowed
+
+
+
+OUTCOME:
+
+
+
+Firewall rules were successfully applied to secure the server.
+
+
+
+---
+
+
+
+WEEK 5: PERFORMANCE TESTING
+
+OBJECTIVE:
+
+
+
+To evaluate system and network performance.
+
+
+
+TASKS COMPLETED:
+
+
+
+\- Installed performance tools (iperf3, fio, memtester)
+
+\- Conducted CPU and memory tests
+
+\- Conducted disk I/O tests
+
+\- Conducted network performance tests
+
+
+
+EVIDENCE:
+
+
+
+\- Screenshot of memtester output
+
+\- Screenshot of fio results
+
+\- Screenshot of iperf3 test
+
+
+
+OUTCOME:
+
+
+
+System performance was tested and results were recorded.
+
+
+
+---
+
+
+
+WEEK 6: SYSTEM MONITORING
+
+OBJECTIVE:
+
+
+
+To monitor system resource usage.
+
+
+
+TASKS COMPLETED:
+
+
+
+\- Used monitoring tools (top, htop, iostat)
+
+\- Observed CPU, memory, and disk usage during tests
+
+
+
+EVIDENCE:
+
+
+
+\- Screenshot of top output
+
+\- Screenshot of htop output
+
+\- Screenshot of iostat output
+
+
+
+OUTCOME:
+
+
+
+System performance was successfully monitored in real time.
+
 
 
