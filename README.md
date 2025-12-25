@@ -290,3 +290,47 @@ System performance was successfully monitored in real time.
 
 
 
+WEEK 7: SECURITY AUDIT AND SYSTEM EVALUATION
+
+OBJECTIVE:
+
+
+
+To perform a comprehensive security audit of the Ubuntu Server system, evaluate its overall security posture, and verify that all previously implemented security controls are functioning as intended.
+
+
+
+TASKS COMPLETED:
+
+
+
+\-Installed and executed Lynis to conduct a full system security audit
+
+\-Analysed the Lynis hardening index, warnings, and security recommendations
+
+\-Performed a network security scan using nmap within the isolated VirtualBox environment
+
+\-Reviewed all running system services to ensure only essential services were enabled
+
+\-Verified firewall rules and SSH access restrictions
+
+
+
+EVIDENCE:
+
+
+
+\-Screenshot of Lynis security audit results and hardening index
+
+\-Screenshot of nmap scan showing open and closed ports
+
+\-Screenshot of running services list using systemctl
+
+
+
+OUTCOME:
+
+
+
+The security audit confirmed that the Ubuntu Server system is well-hardened and securely configured. The Lynis audit demonstrated a strong security posture with most recommended controls already implemented. The nmap scan verified that only SSH (port 22) was accessible, significantly reducing the attack surface. The service audit confirmed that only essential services were running, minimising unnecessary security risks. Overall, the system meets best-practice standards for secure remote server administration.
+
