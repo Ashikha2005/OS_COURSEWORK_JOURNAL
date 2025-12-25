@@ -34,7 +34,7 @@ EVIDENCE:
 
 
 
-- Screenshot of VirtualBox VM settings
+![VirtualBox VM settings](screenshots/week_1_vm_settings.png.png)
 
 
 
@@ -59,9 +59,9 @@ TASKS COMPLETED:
 
 EVIDENCE:
 
-- Screenshot of `ip addr`
-- Screenshot of successful ping
-- Screenshot of SSH connection
+![`ip addr`](screenshots/week _2_ip_addr.jpeg.jpeg)
+![successful ping](screenshots/week_2_ping.jpeg.jpeg)
+![SSH connection](screenshots/week _2_ssh_connection.png.png)
 
 OUTCOME:
 
@@ -88,10 +88,10 @@ TASKS COMPLETED:
 
 EVIDENCE:
 
-- Screenshot of `systemctl status ssh`
-- Screenshot of successful SSH login
-- Screenshot of SSH key authentication 1
-- Screenshot of SSH key authentication 2
+![systemctl status](screenshots/week_3_systemctl_status_ssh.jpeg.jpeg)
+![successful SSH login](screenshots/week_3_successfull_ssh.png.png)
+![SSH key authentication 1](screenshots/week_3_ssh_key.png.png)
+![SSH key authentication 2](screenshots/week _3_ssh_copy_id.png.png)
 
 OUTCOME:
 
@@ -113,7 +113,7 @@ TASKS COMPLETED:
 
 EVIDENCE:
 
-- Screenshot of `ufw status`
+![`ufw status`](screenshots/week_4_ufw_status_and_ssh_allowed.jpeg.jpeg)
 
 OUTCOME:
 
@@ -136,11 +136,11 @@ TASKS COMPLETED:
 
 EVIDENCE:
 
-- Screenshot of memtester output
-- Screenshot of fio results
-- Screenshot of iperf3 test 1
-- Screenshot of iperf3 test 2
-- Screenshot of iperf3 test 3
+![memtester output](screenshots/week_5_memtester_output.jpeg.jpeg)
+![fio results](screenshots/week_5_fio_results.jpeg.jpeg)
+![iperf3 test 1](screenshots/week_5_iperf3.png.png)
+![iperf3 test 2](screenshots/week_5_iperf3_2.jpeg.jpeg)
+![iperf3 test 3](
 
 
 OUTCOME:
